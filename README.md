@@ -6,11 +6,17 @@ App de estudo de caso para stream de Audio, recriei a interface do Spotify para 
 <p align="center">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/fmolliet/spotifie">
   
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/fmolliet/spotifie">
+  
+  <a href="https://www.linkedin.com/in/fabiomolliet/"><img alt="linkedin" src="https://img.shields.io/badge/made%20by-fmolliet-brightgreen"></a>
+  
   <img alt="NPM" src="https://img.shields.io/npm/l/express">
   
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/fmolliet/spotifie">
   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/fmolliet/spotifie">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/fmolliet/spotifie">
+  
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/fmolliet/spotifie?style=social">
 </p>
 
 <p align="center">
