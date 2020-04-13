@@ -67,4 +67,4 @@ $ npm start</pre></div>
 
 
 <h2><a href="#memo-license"></a>📝 License</h2>
- <h2>This project is under the MIT license. See the <a href="https://github.com/danielobara/FastFeet/blob/master/LICENSE">LICENSE</a> for more information.</h2>
+ <h2>This project is under the MIT license. See the LICENSE for more information.</h2>
