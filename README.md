@@ -66,5 +66,5 @@ $ npx knex migrate:latest
 $ npm start</pre></div>
 
 
-<h2><a href="#memo-license">📝 License</h2>
+<h2><a href="#memo-license"></a>📝 License</h2>
  <h2>This project is under the MIT license. See the <a href="https://github.com/danielobara/FastFeet/blob/master/LICENSE">LICENSE</a> for more information.</h2>
